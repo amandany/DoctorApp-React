@@ -1,0 +1,32 @@
+.AppointmentContainer {
+    margin: 20px;
+}
+
+.NameOfFirstService {
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 19px;
+    margin-bottom: 5px;
+}
+
+.NameOfSecondService {
+    margin-left: 40px;
+}
+
+.ElectronicCardContainer {
+    margin-left: 20px;
+}
+
+.CardDoctor {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.MoreInfo {
+    display: block;
+    size: 14px;
+    text-align: center
+}

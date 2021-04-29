@@ -1,0 +1,36 @@
+.RecordContainer {
+    margin: 20px;
+}
+
+.RecordHeader {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.RecordHeader img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.List {
+    height: 83vh;
+    width: min-content;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-left: 10px;
+    display: inline;
+}
+
+.List::-webkit-scrollbar {
+    width: 10px;
+    background-color: #EBE7FF;
+}
+
+.List::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #003B72;
+}
+
+.WorkArea {
+    display: flex;
+}
